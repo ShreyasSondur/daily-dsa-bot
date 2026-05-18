@@ -1,0 +1,726 @@
+[
+{
+"title": "Two Sum",
+"topic": "Arrays",
+"concept": "HashMap, Complement Lookup",
+"link": "https://leetcode.com/problems/two-sum/"
+},
+{
+"title": "Best Time to Buy and Sell Stock",
+"topic": "Arrays",
+"concept": "Greedy, Running Minimum",
+"link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+},
+{
+"title": "Maximum Subarray",
+"topic": "Arrays",
+"concept": "Kadane's Algorithm",
+"link": "https://leetcode.com/problems/maximum-subarray/"
+},
+{
+"title": "Merge Intervals",
+"topic": "Arrays",
+"concept": "Sorting, Interval Merge",
+"link": "https://leetcode.com/problems/merge-intervals/"
+},
+{
+"title": "Product of Array Except Self",
+"topic": "Arrays",
+"concept": "Prefix & Suffix Products",
+"link": "https://leetcode.com/problems/product-of-array-except-self/"
+},
+{
+"title": "Set Matrix Zeroes",
+"topic": "Arrays",
+"concept": "In-place Matrix Marking",
+"link": "https://leetcode.com/problems/set-matrix-zeroes/"
+},
+{
+"title": "Rotate Image",
+"topic": "Arrays",
+"concept": "Transpose + Reverse",
+"link": "https://leetcode.com/problems/rotate-image/"
+},
+{
+"title": "Next Permutation",
+"topic": "Arrays",
+"concept": "Permutation Logic",
+"link": "https://leetcode.com/problems/next-permutation/"
+},
+{
+"title": "Majority Element",
+"topic": "Arrays",
+"concept": "Boyer Moore Voting",
+"link": "https://leetcode.com/problems/majority-element/"
+},
+{
+"title": "Longest Substring Without Repeating Characters",
+"topic": "Sliding Window",
+"concept": "Sliding Window + HashSet",
+"link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+},
+{
+"title": "Minimum Window Substring",
+"topic": "Sliding Window",
+"concept": "Variable Window",
+"link": "https://leetcode.com/problems/minimum-window-substring/"
+},
+{
+"title": "Permutation in String",
+"topic": "Sliding Window",
+"concept": "Frequency Count",
+"link": "https://leetcode.com/problems/permutation-in-string/"
+},
+{
+"title": "Group Anagrams",
+"topic": "Strings",
+"concept": "HashMap + Sorting",
+"link": "https://leetcode.com/problems/group-anagrams/"
+},
+{
+"title": "Valid Anagram",
+"topic": "Strings",
+"concept": "Character Counting",
+"link": "https://leetcode.com/problems/valid-anagram/"
+},
+{
+"title": "Longest Repeating Character Replacement",
+"topic": "Sliding Window",
+"concept": "Max Frequency Window",
+"link": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+},
+{
+"title": "Valid Palindrome",
+"topic": "Strings",
+"concept": "Two Pointer",
+"link": "https://leetcode.com/problems/valid-palindrome/"
+},
+{
+"title": "Binary Search",
+"topic": "Binary Search",
+"concept": "Classic Binary Search",
+"link": "https://leetcode.com/problems/binary-search/"
+},
+{
+"title": "Search in Rotated Sorted Array",
+"topic": "Binary Search",
+"concept": "Modified Binary Search",
+"link": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+},
+{
+"title": "Find Minimum in Rotated Sorted Array",
+"topic": "Binary Search",
+"concept": "Pivot Search",
+"link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+},
+{
+"title": "Koko Eating Bananas",
+"topic": "Binary Search",
+"concept": "Binary Search on Answer",
+"link": "https://leetcode.com/problems/koko-eating-bananas/"
+},
+{
+"title": "Median of Two Sorted Arrays",
+"topic": "Binary Search",
+"concept": "Partition Binary Search",
+"link": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+},
+{
+"title": "Reverse Linked List",
+"topic": "Linked List",
+"concept": "Pointer Reversal",
+"link": "https://leetcode.com/problems/reverse-linked-list/"
+},
+{
+"title": "Linked List Cycle",
+"topic": "Linked List",
+"concept": "Fast Slow Pointer",
+"link": "https://leetcode.com/problems/linked-list-cycle/"
+},
+{
+"title": "Merge Two Sorted Lists",
+"topic": "Linked List",
+"concept": "Dummy Node Technique",
+"link": "https://leetcode.com/problems/merge-two-sorted-lists/"
+},
+{
+"title": "Remove Nth Node From End of List",
+"topic": "Linked List",
+"concept": "Two Pointer",
+"link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+},
+{
+"title": "Add Two Numbers",
+"topic": "Linked List",
+"concept": "Carry Handling",
+"link": "https://leetcode.com/problems/add-two-numbers/"
+},
+{
+"title": "Copy List with Random Pointer",
+"topic": "Linked List",
+"concept": "HashMap Cloning",
+"link": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+},
+{
+"title": "LRU Cache",
+"topic": "Linked List",
+"concept": "DLL + HashMap",
+"link": "https://leetcode.com/problems/lru-cache/"
+},
+{
+"title": "Valid Parentheses",
+"topic": "Stack",
+"concept": "Bracket Matching",
+"link": "https://leetcode.com/problems/valid-parentheses/"
+},
+{
+"title": "Min Stack",
+"topic": "Stack",
+"concept": "Auxiliary Stack",
+"link": "https://leetcode.com/problems/min-stack/"
+},
+{
+"title": "Evaluate Reverse Polish Notation",
+"topic": "Stack",
+"concept": "Expression Evaluation",
+"link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+},
+{
+"title": "Daily Temperatures",
+"topic": "Stack",
+"concept": "Monotonic Stack",
+"link": "https://leetcode.com/problems/daily-temperatures/"
+},
+{
+"title": "Largest Rectangle in Histogram",
+"topic": "Stack",
+"concept": "Monotonic Stack",
+"link": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+},
+{
+"title": "Binary Tree Inorder Traversal",
+"topic": "Trees",
+"concept": "DFS Traversal",
+"link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+},
+{
+"title": "Maximum Depth of Binary Tree",
+"topic": "Trees",
+"concept": "Tree Height DFS",
+"link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+},
+{
+"title": "Diameter of Binary Tree",
+"topic": "Trees",
+"concept": "Tree DP",
+"link": "https://leetcode.com/problems/diameter-of-binary-tree/"
+},
+{
+"title": "Balanced Binary Tree",
+"topic": "Trees",
+"concept": "Height Balance",
+"link": "https://leetcode.com/problems/balanced-binary-tree/"
+},
+{
+"title": "Binary Tree Level Order Traversal",
+"topic": "Trees",
+"concept": "BFS Queue",
+"link": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+},
+{
+"title": "Lowest Common Ancestor of a Binary Tree",
+"topic": "Trees",
+"concept": "Recursive DFS",
+"link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+},
+{
+"title": "Serialize and Deserialize Binary Tree",
+"topic": "Trees",
+"concept": "Tree Encoding",
+"link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+}
+,
+{
+"title": "Validate Binary Search Tree",
+"topic": "BST",
+"concept": "BST Range Validation",
+"link": "https://leetcode.com/problems/validate-binary-search-tree/"
+},
+{
+"title": "Kth Smallest Element in a BST",
+"topic": "BST",
+"concept": "Inorder Traversal",
+"link": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+},
+{
+"title": "Lowest Common Ancestor of a Binary Search Tree",
+"topic": "BST",
+"concept": "BST Property Traversal",
+"link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+},
+{
+"title": "Kth Largest Element in an Array",
+"topic": "Heap",
+"concept": "Min Heap",
+"link": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+},
+{
+"title": "Top K Frequent Elements",
+"topic": "Heap",
+"concept": "Heap + Frequency Map",
+"link": "https://leetcode.com/problems/top-k-frequent-elements/"
+},
+{
+"title": "Find Median from Data Stream",
+"topic": "Heap",
+"concept": "Two Heap Technique",
+"link": "https://leetcode.com/problems/find-median-from-data-stream/"
+},
+{
+"title": "Merge K Sorted Lists",
+"topic": "Heap",
+"concept": "Priority Queue",
+"link": "https://leetcode.com/problems/merge-k-sorted-lists/"
+},
+{
+"title": "Subsets",
+"topic": "Backtracking",
+"concept": "Subset Generation",
+"link": "https://leetcode.com/problems/subsets/"
+},
+{
+"title": "Combination Sum",
+"topic": "Backtracking",
+"concept": "Recursive Choices",
+"link": "https://leetcode.com/problems/combination-sum/"
+},
+{
+"title": "Permutations",
+"topic": "Backtracking",
+"concept": "Swap Recursion",
+"link": "https://leetcode.com/problems/permutations/"
+},
+{
+"title": "Palindrome Partitioning",
+"topic": "Backtracking",
+"concept": "DFS Partitioning",
+"link": "https://leetcode.com/problems/palindrome-partitioning/"
+},
+{
+"title": "N-Queens",
+"topic": "Backtracking",
+"concept": "Constraint Backtracking",
+"link": "https://leetcode.com/problems/n-queens/"
+},
+{
+"title": "Number of Islands",
+"topic": "Graphs",
+"concept": "DFS Grid Traversal",
+"link": "https://leetcode.com/problems/number-of-islands/"
+},
+{
+"title": "Clone Graph",
+"topic": "Graphs",
+"concept": "Graph DFS/BFS Copy",
+"link": "https://leetcode.com/problems/clone-graph/"
+},
+{
+"title": "Course Schedule",
+"topic": "Graphs",
+"concept": "Topological Sort",
+"link": "https://leetcode.com/problems/course-schedule/"
+},
+{
+"title": "Rotting Oranges",
+"topic": "Graphs",
+"concept": "Multi-source BFS",
+"link": "https://leetcode.com/problems/rotting-oranges/"
+},
+{
+"title": "Pacific Atlantic Water Flow",
+"topic": "Graphs",
+"concept": "Reverse DFS/BFS",
+"link": "https://leetcode.com/problems/pacific-atlantic-water-flow/"
+},
+{
+"title": "Word Ladder",
+"topic": "Graphs",
+"concept": "Shortest Path BFS",
+"link": "https://leetcode.com/problems/word-ladder/"
+},
+{
+"title": "Network Delay Time",
+"topic": "Graphs",
+"concept": "Dijkstra Algorithm",
+"link": "https://leetcode.com/problems/network-delay-time/"
+},
+{
+"title": "Climbing Stairs",
+"topic": "Dynamic Programming",
+"concept": "1D DP",
+"link": "https://leetcode.com/problems/climbing-stairs/"
+},
+{
+"title": "House Robber",
+"topic": "Dynamic Programming",
+"concept": "Take or Skip DP",
+"link": "https://leetcode.com/problems/house-robber/"
+},
+{
+"title": "House Robber II",
+"topic": "Dynamic Programming",
+"concept": "Circular DP",
+"link": "https://leetcode.com/problems/house-robber-ii/"
+},
+{
+"title": "Coin Change",
+"topic": "Dynamic Programming",
+"concept": "Minimum Coins DP",
+"link": "https://leetcode.com/problems/coin-change/"
+},
+{
+"title": "Longest Increasing Subsequence",
+"topic": "Dynamic Programming",
+"concept": "LIS DP",
+"link": "https://leetcode.com/problems/longest-increasing-subsequence/"
+},
+{
+"title": "Longest Common Subsequence",
+"topic": "Dynamic Programming",
+"concept": "2D DP",
+"link": "https://leetcode.com/problems/longest-common-subsequence/"
+},
+{
+"title": "Word Break",
+"topic": "Dynamic Programming",
+"concept": "String DP",
+"link": "https://leetcode.com/problems/word-break/"
+},
+{
+"title": "0/1 Knapsack",
+"topic": "Dynamic Programming",
+"concept": "Classic Knapsack DP",
+"link": "https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/"
+},
+{
+"title": "Jump Game",
+"topic": "Greedy",
+"concept": "Reachability Greedy",
+"link": "https://leetcode.com/problems/jump-game/"
+},
+{
+"title": "Gas Station",
+"topic": "Greedy",
+"concept": "Greedy Circular Traversal",
+"link": "https://leetcode.com/problems/gas-station/"
+},
+{
+"title": "Partition Labels",
+"topic": "Greedy",
+"concept": "Last Occurrence Tracking",
+"link": "https://leetcode.com/problems/partition-labels/"
+},
+{
+"title": "Task Scheduler",
+"topic": "Greedy",
+"concept": "Greedy Scheduling",
+"link": "https://leetcode.com/problems/task-scheduler/"
+}
+,
+{
+"title": "Intersection of Two Linked Lists",
+"topic": "Linked List",
+"concept": "Pointer Switching",
+"link": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+},
+{
+"title": "Linked List Cycle",
+"topic": "Linked List",
+"concept": "Floyd Cycle Detection",
+"link": "https://leetcode.com/problems/linked-list-cycle/"
+},
+{
+"title": "Reverse Nodes in K Group",
+"topic": "Linked List",
+"concept": "Linked List Reversal",
+"link": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+},
+{
+"title": "Palindrome Linked List",
+"topic": "Linked List",
+"concept": "Reverse Half",
+"link": "https://leetcode.com/problems/palindrome-linked-list/"
+},
+{
+"title": "Linked List Cycle II",
+"topic": "Linked List",
+"concept": "Cycle Start Detection",
+"link": "https://leetcode.com/problems/linked-list-cycle-ii/"
+},
+{
+"title": "Flattening a Linked List",
+"topic": "Linked List",
+"concept": "Merge Lists",
+"link": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1"
+},
+{
+"title": "Rotate List",
+"topic": "Linked List",
+"concept": "Circular Linked List",
+"link": "https://leetcode.com/problems/rotate-list/"
+},
+{
+"title": "Copy List with Random Pointer",
+"topic": "Linked List",
+"concept": "HashMap Cloning",
+"link": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+},
+{
+"title": "3Sum",
+"topic": "Arrays",
+"concept": "Sorting + Two Pointer",
+"link": "https://leetcode.com/problems/3sum/"
+},
+{
+"title": "Trapping Rain Water",
+"topic": "Arrays",
+"concept": "Two Pointer",
+"link": "https://leetcode.com/problems/trapping-rain-water/"
+},
+{
+"title": "Remove Duplicates from Sorted Array",
+"topic": "Arrays",
+"concept": "Two Pointer",
+"link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+},
+{
+"title": "Max Consecutive Ones",
+"topic": "Arrays",
+"concept": "Array Traversal",
+"link": "https://leetcode.com/problems/max-consecutive-ones/"
+},
+{
+"title": "Maximum Points from Cards",
+"topic": "Sliding Window",
+"concept": "Fixed Window",
+"link": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/"
+},
+{
+"title": "Binary Tree Inorder Traversal",
+"topic": "Trees",
+"concept": "DFS Traversal",
+"link": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+},
+{
+"title": "Binary Tree Preorder Traversal",
+"topic": "Trees",
+"concept": "DFS Traversal",
+"link": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+},
+{
+"title": "Binary Tree Postorder Traversal",
+"topic": "Trees",
+"concept": "DFS Traversal",
+"link": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+},
+{
+"title": "Maximum Depth of Binary Tree",
+"topic": "Trees",
+"concept": "Tree Height",
+"link": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+},
+{
+"title": "Balanced Binary Tree",
+"topic": "Trees",
+"concept": "Height Balance",
+"link": "https://leetcode.com/problems/balanced-binary-tree/"
+},
+{
+"title": "Diameter of Binary Tree",
+"topic": "Trees",
+"concept": "Tree DP",
+"link": "https://leetcode.com/problems/diameter-of-binary-tree/"
+},
+{
+"title": "Maximum Path Sum",
+"topic": "Trees",
+"concept": "Tree DP",
+"link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+},
+{
+"title": "Same Tree",
+"topic": "Trees",
+"concept": "Recursive Comparison",
+"link": "https://leetcode.com/problems/same-tree/"
+},
+{
+"title": "Binary Tree Zigzag Level Order Traversal",
+"topic": "Trees",
+"concept": "BFS",
+"link": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+},
+{
+"title": "Boundary Traversal",
+"topic": "Trees",
+"concept": "Tree Traversal",
+"link": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1"
+},
+{
+"title": "Vertical Order Traversal",
+"topic": "Trees",
+"concept": "Map + BFS",
+"link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/"
+},
+{
+"title": "Top View of Binary Tree",
+"topic": "Trees",
+"concept": "Horizontal Distance",
+"link": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1"
+},
+{
+"title": "Bottom View of Binary Tree",
+"topic": "Trees",
+"concept": "Horizontal Distance",
+"link": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1"
+},
+{
+"title": "Right View of Binary Tree",
+"topic": "Trees",
+"concept": "Level Traversal",
+"link": "https://leetcode.com/problems/binary-tree-right-side-view/"
+},
+{
+"title": "Symmetric Tree",
+"topic": "Trees",
+"concept": "Mirror DFS",
+"link": "https://leetcode.com/problems/symmetric-tree/"
+},
+{
+"title": "Root to Node Path",
+"topic": "Trees",
+"concept": "DFS Path Tracking",
+"link": "https://practice.geeksforgeeks.org/problems/root-to-node-paths/1"
+},
+{
+"title": "Lowest Common Ancestor of Binary Tree",
+"topic": "Trees",
+"concept": "Recursive DFS",
+"link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+}
+,
+{
+"title": "Maximum Width of Binary Tree",
+"topic": "Trees",
+"concept": "Indexed BFS",
+"link": "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+},
+{
+"title": "Children Sum Property",
+"topic": "Trees",
+"concept": "Tree Modification",
+"link": "https://practice.geeksforgeeks.org/problems/children-sum-parent/1"
+},
+{
+"title": "Print All Nodes at Distance K",
+"topic": "Trees",
+"concept": "BFS + Parent Mapping",
+"link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/"
+},
+{
+"title": "Minimum Time to Burn Tree",
+"topic": "Trees",
+"concept": "Graph BFS",
+"link": "https://practice.geeksforgeeks.org/problems/burning-tree/1"
+},
+{
+"title": "Count Total Nodes in Complete Binary Tree",
+"topic": "Trees",
+"concept": "Complete Tree Optimization",
+"link": "https://leetcode.com/problems/count-complete-tree-nodes/"
+},
+{
+"title": "Construct Binary Tree from Preorder and Inorder",
+"topic": "Trees",
+"concept": "Recursive Construction",
+"link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+},
+{
+"title": "Construct Binary Tree from Inorder and Postorder",
+"topic": "Trees",
+"concept": "Recursive Construction",
+"link": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+},
+{
+"title": "Serialize and Deserialize Binary Tree",
+"topic": "Trees",
+"concept": "Tree Encoding",
+"link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+},
+{
+"title": "Morris Inorder Traversal",
+"topic": "Trees",
+"concept": "Threaded Binary Tree",
+"link": "https://practice.geeksforgeeks.org/problems/inorder-traversal/1"
+},
+{
+"title": "Flatten Binary Tree to Linked List",
+"topic": "Trees",
+"concept": "Modified DFS",
+"link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+},
+{
+"title": "Search in a Binary Search Tree",
+"topic": "BST",
+"concept": "BST Traversal",
+"link": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+},
+{
+"title": "Validate Binary Search Tree",
+"topic": "BST",
+"concept": "Range Validation",
+"link": "https://leetcode.com/problems/validate-binary-search-tree/"
+},
+{
+"title": "Lowest Common Ancestor of BST",
+"topic": "BST",
+"concept": "BST Property",
+"link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+},
+{
+"title": "Construct BST from Preorder",
+"topic": "BST",
+"concept": "Recursive BST Construction",
+"link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
+},
+{
+"title": "Inorder Successor in BST",
+"topic": "BST",
+"concept": "BST Traversal",
+"link": "https://leetcode.com/problems/inorder-successor-in-bst/"
+},
+{
+"title": "Binary Search Tree Iterator",
+"topic": "BST",
+"concept": "Controlled Inorder Traversal",
+"link": "https://leetcode.com/problems/binary-search-tree-iterator/"
+},
+{
+"title": "Two Sum IV - BST",
+"topic": "BST",
+"concept": "BST + HashSet",
+"link": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/"
+},
+{
+"title": "Recover Binary Search Tree",
+"topic": "BST",
+"concept": "Inorder Property",
+"link": "https://leetcode.com/problems/recover-binary-search-tree/"
+},
+{
+"title": "Largest BST in Binary Tree",
+"topic": "BST",
+"concept": "Tree DP",
+"link": "https://practice.geeksforgeeks.org/problems/largest-bst/1"
+}
+]
+
