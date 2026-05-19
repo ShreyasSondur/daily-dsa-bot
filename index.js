@@ -26,7 +26,7 @@ console.log("✅ Bot Online");
 
 // DAILY QUESTION - 6 AM
 
-cron.schedule("* * * * *", async () => {
+cron.schedule("0 6 * * *", async () => {
 
 try {
 
