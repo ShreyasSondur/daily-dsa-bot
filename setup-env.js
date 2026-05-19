@@ -1,7 +1,7 @@
 const fs = require('fs');
 
-const p1 = "MTUwNTk5OTgyMjk5MjQ0NTUwMA.G12ZdQ";
-const p2 = ".m_E9KSa-laIUb2YMizaQHS-pAF47VftKR4peSo";
+const p1 = "MTUwNTk5OTgyMjk5MjQ0NTUwMA.GaGnyI";
+const p2 = ".jpKRQGVEBvY5rZbpFI4ggNwFqfm4unTCOqe200";
 
 const envContent = `TOKEN=${p1}${p2}
 CHANNEL_ID=1498688094759813251
