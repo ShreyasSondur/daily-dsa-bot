@@ -1,23 +1,5 @@
 [
 {
-"title": "Two Sum",
-"topic": "Arrays",
-"concept": "HashMap, Complement Lookup",
-"link": "https://leetcode.com/problems/two-sum/"
-},
-{
-"title": "Best Time to Buy and Sell Stock",
-"topic": "Arrays",
-"concept": "Greedy, Running Minimum",
-"link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
-},
-{
-"title": "Maximum Subarray",
-"topic": "Arrays",
-"concept": "Kadane's Algorithm",
-"link": "https://leetcode.com/problems/maximum-subarray/"
-},
-{
 "title": "Merge Intervals",
 "topic": "Arrays",
 "concept": "Sorting, Interval Merge",
@@ -28,24 +10,6 @@
 "topic": "Arrays",
 "concept": "Prefix & Suffix Products",
 "link": "https://leetcode.com/problems/product-of-array-except-self/"
-},
-{
-"title": "Set Matrix Zeroes",
-"topic": "Arrays",
-"concept": "In-place Matrix Marking",
-"link": "https://leetcode.com/problems/set-matrix-zeroes/"
-},
-{
-"title": "Rotate Image",
-"topic": "Arrays",
-"concept": "Transpose + Reverse",
-"link": "https://leetcode.com/problems/rotate-image/"
-},
-{
-"title": "Next Permutation",
-"topic": "Arrays",
-"concept": "Permutation Logic",
-"link": "https://leetcode.com/problems/next-permutation/"
 },
 {
 "title": "Majority Element",
