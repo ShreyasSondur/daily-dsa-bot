@@ -28,7 +28,6 @@ console.log("✅ Bot Online");
 
 cron.schedule("0 6 * * *", async () => {
 
-```
 try {
 
   const channel = await client.channels.fetch(
@@ -104,7 +103,6 @@ try {
   console.error(error);
 
 }
-```
 
 }, {
 timezone: "Asia/Kolkata"
@@ -114,7 +112,6 @@ timezone: "Asia/Kolkata"
 
 cron.schedule("55 5 * * *", async () => {
 
-```
 try {
 
   const warningChannel =
@@ -206,7 +203,6 @@ try {
   console.error(error);
 
 }
-```
 
 }, {
 timezone: "Asia/Kolkata"
