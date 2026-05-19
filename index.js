@@ -20,7 +20,7 @@ GatewayIntentBits.GuildMessageReactions
 
 const questions = require("./questions.json");
 
-client.once("ready", async () => {
+client.once("clientReady", async () => {
 
 console.log("✅ Bot Online");
 
