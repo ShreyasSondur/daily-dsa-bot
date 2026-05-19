@@ -1,5 +1,6 @@
 require("dotenv").config();
 
+const path = require("path");
 const fs = require("fs");
 const cron = require("node-cron");
 
@@ -19,7 +20,7 @@ GatewayIntentBits.GuildMessageReactions
 
 const questions = require("./questions.json");
 
-client.once("clientReady", async () => {
+client.once("ready", async () => {
 
 console.log("✅ Bot Online");
 
@@ -35,7 +36,7 @@ try {
   );
 
   const state = JSON.parse(
-    fs.readFileSync("./state.json", "utf8")
+    fs.readFileSync(path.join(__dirname, "state.json"), "utf8")
   );
 
   let index = state.currentIndex;
@@ -89,7 +90,7 @@ try {
   state.currentIndex = index + 1;
 
   fs.writeFileSync(
-    "./state.json",
+    path.join(__dirname, "state.json"),
     JSON.stringify(state, null, 2)
   );
 
@@ -127,7 +128,7 @@ try {
     );
 
   const state = JSON.parse(
-    fs.readFileSync("./state.json", "utf8")
+    fs.readFileSync(path.join(__dirname, "state.json"), "utf8")
   );
 
   if (!state.lastMessageId) {
